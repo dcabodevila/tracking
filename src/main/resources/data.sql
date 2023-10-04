@@ -1,0 +1,4 @@
+INSERT INTO estado (id, name) VALUES (1, 'RECOGIDO EN ALMACEN');
+INSERT INTO estado (id, name) VALUES (2, 'EN REPARTO');
+INSERT INTO estado (id, name) VALUES (3, 'INCIDENCIA EN ENTREGA');
+INSERT INTO estado (id, name) VALUES (4, 'ENTREGADO');
